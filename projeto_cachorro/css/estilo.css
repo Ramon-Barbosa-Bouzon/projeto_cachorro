@@ -20,6 +20,7 @@ body{
 	height: 90%;
 	
 }
+
 h1{
 	display: inline-block;
 	margin-left: 45%;
@@ -29,5 +30,5 @@ h1{
 	width: 4em;
 	display: block;
 	margin-top: 2em;
-	background-color: azure;
+	background-color: azure  ;
 }
